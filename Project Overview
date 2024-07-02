@@ -1,0 +1,24 @@
+# Low-Cost Quadcopter Detection Using Computer Vision and Acoustic Array
+
+## Project Overview
+
+This project aims to develop a low-cost system for detecting quadcopters by integrating computer vision techniques with an acoustic array. The approach leverages the strengths of both visual and auditory data to enhance detection accuracy and reliability.
+
+## Features
+
+- **Computer Vision Detection:** Utilizes image processing and machine learning algorithms to identify quadcopters from visual data.
+- **Acoustic Array:** Employs an array of microphones to capture and analyze acoustic signatures of quadcopters.
+- **Data Fusion:** Combines visual and acoustic data to improve detection performance.
+- **Cost-Effective:** Focuses on using affordable components to make the system accessible for widespread use.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.x
+- OpenCV
+- TensorFlow/PyTorch (depending on the chosen machine learning framework)
+- NumPy
+- SciPy
+- Any other dependencies required by the code
+
